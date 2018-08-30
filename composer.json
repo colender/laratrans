@@ -1,0 +1,21 @@
+{
+    "name": "colender/laratrans",
+    "description": "Automtatic translation using google api for laravel",
+    "require": {
+        "colender/google-translate": "^1.0",
+        "illuminate/support": "^5.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Vijaytupakula\\Transvel\\": "src/"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ruben Rangel",
+            "email": "contact@rubenrangel.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
