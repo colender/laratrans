@@ -1,6 +1,7 @@
 {
     "name": "colender/laratrans",
     "description": "Automtatic translation using google api for laravel",
+    "version":"1.0",
     "require": {
         "colender/google-translate": "^1.0",
         "illuminate/support": "^5.2"
